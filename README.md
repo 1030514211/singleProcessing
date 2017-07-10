@@ -7,13 +7,13 @@
 操作顺序是先选择FCFS/SJF/HRN，再点击sort就可以开始程序，通过键盘的'A'或'a'来操作了。</br>
 程序运行期间只需要不停的按'A'或'a'就可以观察到整个运行结果了，不需要多次点击sort~</br>
 ### 初始状态：
-![image](http://github.com/1030514211/singleProcessing/raw/master/image/1.png)</br>
+![image](https://github.com/1030514211/singleProcessing/raw/master/image/1.png)</br>
 ### 先来先服务（FCFS）
-![image](http://github.com/1030514211/singleProcessing/raw/master/image/FCFS_1.png)</br>
-![image](http://github.com/1030514211/singleProcessing/raw/master/image/FCFS_2.png)</br>
+![image](https://github.com/1030514211/singleProcessing/raw/master/image/FCFS_1.png)</br>
+![image](https://github.com/1030514211/singleProcessing/raw/master/image/FCFS_2.png)</br>
 ### 最短作业优先（SJF）
-![image](http://github.com/1030514211/singleProcessing/raw/master/image/SJF_1.png)</br>
-![image](http://github.com/1030514211/singleProcessing/raw/master/image/SJF_2.png)</br>
+![image](https://github.com/1030514211/singleProcessing/raw/master/image/SJF_1.png)</br>
+![image](https://github.com/1030514211/singleProcessing/raw/master/image/SJF_2.png)</br>
 ### 响应比高者优先（HRN）
-![image](http://github.com/1030514211/singleProcessing/raw/master/image/HRN_1.png)</br>
-![image](http://github.com/1030514211/singleProcessing/raw/master/image/HRN_2.png)</br>
+![image](https://github.com/1030514211/singleProcessing/raw/master/image/HRN_1.png)</br>
+![image](https://github.com/1030514211/singleProcessing/raw/master/image/HRN_2.png)</br>
